@@ -1,4 +1,3 @@
-import time
 from socket import *
 from threading import Thread
 
