@@ -1,6 +1,6 @@
 from socket import *
 
-serverPort = 12000
+serverPort = 12002
 
 
 def main():

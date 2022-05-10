@@ -1,7 +1,7 @@
 from socket import *
 
 serverName = 'localhost'
-serverPort = 12000
+serverPort = 12002
 
 
 def main():
